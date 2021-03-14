@@ -4,7 +4,7 @@
   "description": "React Hook for capacitor-video-player plugin",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jepiqueau/react-video-player-hook.git"
+    "url": "git+https://github.com/JohnCoppa/react-video-player-hook"
   },
   "keywords": [
     "React",
@@ -43,30 +43,30 @@
     ]
   },
   "peerDependencies": {
-    "react": "^16.13.1",
-    "@capacitor/core": "^2.4.2",
-    "capacitor-video-player": "^2.4.2-2"
+    "react": "^17.0.1",
+    "@capacitor/core": "^2.4.7",
+    "capacitor-video-player": "github:JohnCoppa/capacitor-video-player"
   },
   "devDependencies": {
-    "@capacitor/core": "^2.4.2",
+    "@capacitor/core": "^2.4.7",
     "@testing-library/react-hooks": "^3.4.2",
     "@types/jest": "^24.0.23",
     "@types/react-test-renderer": "^16.9.3",
-    "capacitor-video-player": "^2.4.2-2",
+    "capacitor-video-player": "github:JohnCoppa/capacitor-video-player",
     "conventional-changelog": "^3.1.4",
     "jest": "^24.9.0",
     "jest-environment-jsdom-fourteen": "^0.1.0",
     "np": "^6.5.0",
-    "react": "^16.13.1",
+    "react": "^17.0.1",
     "react-app-polyfill": "^1.0.6",
-    "react-test-renderer": "^16.13.1",
+    "react-test-renderer": "^17.0.1",
     "replace": "^1.1.0",
     "rimraf": "^2.6.1",
     "ts-jest": "^26.2.0",
     "tslint": "^6.1.2",
     "tslint-ionic-rules": "0.0.21",
     "typedoc": "^0.18.0",
-    "typescript": "^3.9.6",
+    "typescript": "^4.1.5",
     "uglify-js": "^3.2.0"
   },
   "jest": {
@@ -87,7 +87,7 @@
   "author": "Quéau Jean Pierre",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jepiqueau/react-video-player-hook/issues"
+    "url": "https://github.com/JohnCoppa/react-video-player-hook/issues"
   },
-  "homepage": "https://github.com/jepiqueau/react-video-player-hook#readme"
+  "homepage": "https://github.com/JohnCoppa/react-video-player-hook#readme"
 }
